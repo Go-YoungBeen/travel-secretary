@@ -1,5 +1,5 @@
 # 여행 비서
-![Uploading image.png…]()
+![여행하는 사람](file:///C:/Users/Administrator/Downloads/DALL%C2%B7E%202025-02-17%2011.17.40%20-%20A%20solo%20traveler%20walking%20through%20a%20scenic%20city%20street%20with%20a%20backpack,%20looking%20at%20a%20map.%20The%20traveler%20is%20dressed%20casually,%20wearing%20a%20hat%20and%20sunglasses%20(1).webp)
 
 ## 소개
 여행 비서는 AI 기반의 여행 도우미 서비스로, 사용자 맞춤형 여행 일정 추천부터 여행 메이트 매칭까지 다양한 기능을 제공합니다.  
